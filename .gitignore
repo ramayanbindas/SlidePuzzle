@@ -1,0 +1,8 @@
+build
+dist
+helper
+my-toga-project
+*.rar
+*.spec
+todo.txt
+number_icon

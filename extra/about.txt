@@ -1,0 +1,51 @@
+==========================
+:SIMPLE SLIDEPUZZLE GAME:
+      :VERSION:-1.0
+==========================
+I created the SlidePuzzle game using the tkinter module(8.6) and python(3.11) to explore its capabilities. The game
+challenges players to rearrange a scrambled number by sliding individual all resources used in the
+game were owned by me or used with permission from the appropriate owners. Through this project, I 
+gained a deepunderstanding of tkinter's functionality and learned how to apply it in practical ways, resulting
+in an enjoyable and engaging user experience.
+--------------------------
+====GAME INSTRUCTION======
+W, Up Arrow-> Move Up
+S, Down Arrow-> Move Down
+A,Right Arrow-> Move Right
+D, Left Arrow-> Move Left
+Other shortcut keys-------
+Q -> Quit
+E -> Volume Up
+R -> Volume Down
+C -> Cheat Button
+V -> Shuffle Button
+N -> New Game
+M -> Main Menu
+========================== 
+$image~author$
+-----Ramayan Mardi------
+Contact Details:-
+youtube:-$link~https://www.youtube.com/channel/UCqDJsf9FsB3fJVf_peEhwuA$
+gmail:-ramayanmardi@gmail.com
+========Credits==========
+Thanks for you valuable
+    assets packs
+=========================
+Silk icon set 1.3
+-------------------------
+Mark James:- Assets Link:-
+$link~http://www.famfamfam.com/lab/icons/silk/$
+Licensed(under creative commons attribution 3.0)
+$link~http://creativecommons.org/licenses/by/3.0/$
+author of silk icon 
+gmail:-mjames@gmail.com
+------------------------
+free game icon website:-
+$link~<a href="https://www.flaticon.com/free-icons/puzzle" title="puzzle icons">Puzzle icons created by monkik - Flaticon</a>$
+------------------------
+Sounds are from author
+========SoupTonic======
+Assets Link:-
+$link~https://souptonic.itch.io/souptonic-sfx-pack-1-ui-sounds$
+Licensed(under creative commons attribution 4.0)
+$link~https://choosealicense.com/licenses/cc-by-4.0/#:~:text=Creative%20Commons%20Attribution%204.0%20International%20Permits%20almost%20any,Open%20Access%20scientific%20publications.%20Not%20recommended%20for%20software.$
